@@ -35,16 +35,7 @@ Apaixonado por **back-end/front-end e cibersegurança**, estou sempre aprendendo
 </div>  
 
 ---
-## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavoporfirio7&show_icons=true&theme=radical&hide_border=false" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoporfirio7&layout=compact&theme=radical&hide_border=false" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavoporfirio7&theme=radical&hide_border=false" width="45%" />
-</p>
 ## 🌐 Contato  
 
 <div> 
